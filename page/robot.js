@@ -28,7 +28,7 @@ function send(event){
             var temp = document.createElement("div");
             temp.innerHTML = `
             <div class="left">
-                <img src="./webwxgeticon.jpg" alt="">
+                <img src="./robot.jpg" alt="">
                 <div class="l"></div>
                 <p>`+ JSON.parse(ajax.responseText).text + `</p>
             </div>
