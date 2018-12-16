@@ -13,7 +13,7 @@ function send(event){
     <div class="right">
         <p>` + val + `</p>
         <div class="r"></div>
-        <img src="./webwxgeticon.jpg" alt="">
+        <img src="./me.jpg" alt="">
     </div>
     `
     document.getElementsByClassName("content")[0].appendChild(me);
