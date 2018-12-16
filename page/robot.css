@@ -42,12 +42,12 @@ html,body{
 .left{
     justify-content:flex-start;
     margin-left:10px;
+    margin-bottom:10px;
 }
 .right{
     justify-content:flex-end;
     margin-right:10px;
-
-
+    margin-bottom:10px;
 }
 .left img,.right img{
     width : 30px;
